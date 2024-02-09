@@ -4,3 +4,6 @@ c = a + b;
 
 print("Agregando introduccion");
 print("El resultado de la suma es: ", c, ". Si, bastante impresionante");
+
+a = 3;
+b = 4;
